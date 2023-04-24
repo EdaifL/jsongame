@@ -39,9 +39,9 @@
         "ApplovinReward": ""
     },
     "AdsConfig": {
-        "IsPangle": false,
+        "IsPangle": true,
         "IsAdmobON": false,
-        "IsFacebookON": true,
+        "IsFacebookON": false,
         "IsYandexON": false,
         "IsUnityON": false,
         "IsApplovin": false
